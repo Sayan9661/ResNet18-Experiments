@@ -21,6 +21,8 @@ Parameters:<br>
 <li>BatchNorm:yes/no</li>
 </ul>
 
+Example command to run file with above arguments.
+py lab2.py --device cuda --optimizer sgd --num_workers 8 --batchnorm no
 
 ## Requirements
 Pytorch,Numpy,Matplotlib
